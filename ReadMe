@@ -1,0 +1,11 @@
+Compilation et exécution:
+	 1) compilation avec la commande : make
+	 2) Lancer le coordinateur avec la commande : ./admin carte.bin 
+ 	 3) Lancer autant de clients que voulu avec la commande : ./client
+
+Fermeture du programme : 
+	1) Fermer tout les clients d'affichage en appuyant sur la touche F2
+        2) Fermer le coordinateur en appuyant sur la touche F2
+
+Informations : 
+	Le choix des clés pour les outils IPC est défini en macro dans le fichier "IPC.h"
